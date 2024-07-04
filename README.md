@@ -1,16 +1,11 @@
-## Hi there 👋
+-Information Technology student at Athens University of Economics and Business
+- interests
+  * Software Enginer
+  * Full-Stack Development
+  * BackEnd Development
+  * Artificial Intelligence
+  * UI/UX
+Experience
+==========
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Constantinezbtks&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Constantinezbtks/Constantinezbtks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
